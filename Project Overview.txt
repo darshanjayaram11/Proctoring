@@ -6,8 +6,6 @@ Folders :-
 4. static                  - website stuffs (img, css & js files)
 5. templates               - website html files (2files)
 
-
-
 Files - 
 1. facial_detections.py     - Face Detection
 2. eye_tracker.py           - Eye Detection
@@ -20,7 +18,6 @@ Files -
 9. app.py                   - Main Project File (For Web)
 10.server.py                - Server file code (flask)
 11.temp.py                  - Temperory files for testing individual func.
-
 12. activity.txt            - Student data Generated log file
 
 
